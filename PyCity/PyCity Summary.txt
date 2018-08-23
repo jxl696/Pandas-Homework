@@ -1,0 +1,5 @@
+Although it seems contrary to what one may believe, the average passing rate was higher in schools with lower spending ranges per student then the one with higher spending ranges per student. From the table that compares school spending vs scores, the lowest spending range had an overall passing rate of 95.035% while the highest spending range had onl a 73.649%.
+
+We can also see that smaller/medium sized schools(94.82 and 95.19% respectively) have a significant larger passing rate (76.36%).
+
+Finally it seems that Charter schools are more successful than District schools as Charter has an overall passing rate of 95.10% while District only has a 73.67%
